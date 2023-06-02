@@ -1,0 +1,12 @@
+h4 {
+    background-color: #1b86e9;
+    color: white;
+    border-radius: 20px;
+  }
+
+  .navbar {
+    background-color: #1b86e9;
+    text-align: center;
+    color: white;
+    justify-content: center;
+  }
